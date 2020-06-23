@@ -1,0 +1,15 @@
+body *{
+    font-family: 'Roboto Slab', serif;
+    color: black;
+}
+#wrapper{
+    margin-right: auto; 
+    margin-left:  auto;
+
+    padding-right: .5em; 
+    padding-left:  .5em;
+}
+.listing{
+    display:flex;
+    align-items: center;
+}
