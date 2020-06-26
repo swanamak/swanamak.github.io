@@ -9,7 +9,22 @@ body *{
     padding-right: .5em; 
     padding-left:  .5em;
 }
+h1{
+    font-size: 3em;
+    padding-bottom: .5em;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color:#CAE7C1;
+}
 .listing{
     display:flex;
-    align-items: center;
+    flex-direction: column; 
+}
+.title{
+    font-size: 2em;
+    padding-top: .5em;
+    padding-bottom: .5em;
 }
