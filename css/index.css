@@ -15,9 +15,10 @@ h1{
 }
 a{
     text-decoration: none;
+    color:#fd5e53;
 }
 a:hover{
-    background-color:#CAE7C1;
+    background-color:#b0eacd;
 }
 .listing{
     display:flex;
